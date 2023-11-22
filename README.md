@@ -1,12 +1,56 @@
-- 👋 Hi, I’m Izhar Hussain. I am a Software Engineer. I am currently doing my Master's degree in Software Engineering from University of Malaya, Kuala Lumpur.
-My research areas are Software Engineering for Machine Learning and Artificial Intelligent systems, Natural Language Processing, Software Development Process.
-- 👀 I’m interested in Cloud Computing, Natural Language Processing applications, Mobile applications, Software Design and Architecture and Software Quality
-Assurance. 
-- 🌱 I’m currently learning about Cloud Technologies, AWS, OpenStack
-- 💞️ I’m looking to collaborate on open source mobile applications that contribute and provide solutions for real world problems.
-- 📫 You can send me a message on my LinkedIn [LinkedIn](https://www.linkedin.com/in/ixxhar) or you can straight up email me at [ixxhar](ixxhar@live.com)
+# 👋 Hi, I’m Izhar Hussain
 
-<!---
-ixxhar/ixxhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🖥️ Software Engineer | 💼 Channel UC | 🎓 MSc Student in Software Engineering | 📚 Classic Literature Enthusiast
+
+---
+
+### About Me
+
+I'm a dedicated Software Engineer currently engaged at Channel UC, Australia's leading distributor of business telecommunications and video conferencing solutions. My role involves managing the complete software development lifecycle, from planning and prioritizing requirements to designing system architectures and backend software development. 
+
+I am also pursuing a Master's degree in Software Engineering at the University of Malaya, Kuala Lumpur, where my research focuses on Software Engineering for Machine Learning and AI systems, and Natural Language Processing.
+
+### Interests
+
+- 🌐 Cloud Computing & AWS
+- 📱 Mobile Application Development
+- 🤖 NLP and AI Systems
+- 🛠️ Software Design and Architecture
+- 📈 Software Quality Assurance
+
+### Learning Journey
+
+- 🌩️ Cloud Technologies like AWS, OpenStack
+- 🌐 Serverless Architectures and MLOps
+
+### Collaboration
+
+I’m keen on collaborating on open-source mobile applications that address real-world challenges. If you have an idea or project in mind, let’s connect!
+
+### Professional Experience
+
+At Channel UC, I work with a variety of technologies:
+
+- .NET Core, Python
+- AWS (EC2, S3, Lambda, API Gateway, Elastic Beanstalk, CodePipeline, CodeDeploy, CodeCommit, RDS, Lightsail)
+- Identity Access Management (Keycloak, FusionAuth)
+- DevOps (GitLab, CI/CD, Docker, Kubernetes)
+
+### Academia
+
+- 🎓 MSc in Software Engineering, University of Malaya
+- 🏆 BSc in Software Engineering with Honors (Gold Medalist)
+- 📜 Thesis on the software development lifecycle for ML-enabled systems
+
+### Personal
+
+When not immersed in technology, I enjoy delving into classic literature, exploring the masterpieces of Russian, French, and English authors.
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ixxhar)
+- 📧 ixxhar@live.com
+
+---
