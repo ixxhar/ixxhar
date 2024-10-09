@@ -1,40 +1,28 @@
 # 👋 Hi, I’m Izhar Hussain
 
-## 🖥️ Software Engineer | 💼 Channel UC | 🎓 MSc Student in Software Engineering | 📚 Classic Literature Enthusiast
+## 🖥️ Software Engineer | 🎓 MSc in Software Engineering | 📚 Classic Literature Enthusiast
 
 ---
 
 ### About Me
 
-I'm a dedicated Software Engineer currently engaged at Channel UC, Australia's leading distributor of business telecommunications and video conferencing solutions. My role involves managing the complete software development lifecycle, from planning and prioritizing requirements to designing system architectures and backend software development. 
+I am a seasoned software engineer with deep expertise in telecommunications, AI-driven applications, and web development. I excel in strategic project planning and execution and lead the development of scalable, secure systems. My experience extends to managing cloud infrastructures and MLOps. I recently earned a Master’s in Software Engineering from the University of Malaya, focusing on AI and machine learning processes. This has significantly enhanced my leadership and innovation capabilities in tech.
 
-I am also pursuing a Master's degree in Software Engineering at the University of Malaya, Kuala Lumpur, where my research focuses on Software Engineering for Machine Learning and AI systems, and Natural Language Processing.
+I am exploring new advancements in large language models (LLMs), developing and fine-tuning custom models to spearhead integration and performance improvements in diverse applications.
 
 ### Interests
 
-- 🌐 Cloud Computing & AWS
-- 📱 Mobile Application Development
-- 🤖 NLP and AI Systems
-- 🛠️ Software Design and Architecture
-- 📈 Software Quality Assurance
+- 🌐 Cloud Computing & Serverless Architectures
+- 🤖 AI, NLP, and Machine Learning Systems
+- 🛠️ Advanced Software Design and Architecture
+- 📈 Ensuring Software Quality and Reliability
 
-### Learning Journey
+### Professional Skills
 
-- 🌩️ Cloud Technologies like AWS, OpenStack
-- 🌐 Serverless Architectures and MLOps
-
-### Collaboration
-
-I’m keen on collaborating on open-source mobile applications that address real-world challenges. If you have an idea or project in mind, let’s connect!
-
-### Professional Experience
-
-At Channel UC, I work with a variety of technologies:
-
-- .NET Core, Python
-- AWS (EC2, S3, Lambda, API Gateway, Elastic Beanstalk, CodePipeline, CodeDeploy, CodeCommit, RDS, Lightsail)
-- Identity Access Management (Keycloak, FusionAuth)
-- DevOps (GitLab, CI/CD, Docker, Kubernetes)
+- Programming: .NET Core, Python
+- Platforms: AWS (EC2, S3, Lambda, etc.), Docker, Kubernetes
+- DevOps: CI/CD, GitHub Actions, GitLab
+- Identity and Access Management: OAuth, OpenID Connect, Keycloak
 
 ### Academia
 
@@ -42,9 +30,9 @@ At Channel UC, I work with a variety of technologies:
 - 🏆 BSc in Software Engineering with Honors (Gold Medalist)
 - 📜 Thesis on the software development lifecycle for ML-enabled systems
 
-### Personal
+### Personal Pursuits
 
-When not immersed in technology, I enjoy delving into classic literature, exploring the masterpieces of Russian, French, and English authors.
+When not deep in code, I enjoy reading classic literature from diverse cultures, including Russian, French, and English literary works. These readings enrich my perspective and inspire creativity in my technical work.
 
 ---
 
