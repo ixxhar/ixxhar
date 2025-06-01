@@ -1,44 +1,42 @@
-# 👋 Hi, I’m Izhar Hussain
+# Izhar Hussain
 
-## 🖥️ Software Engineer | 🎓 MSc in Software Engineering | 📚 Classic Literature Enthusiast
+## Software Engineer | MSc in Software Engineering | Classic Literature Enthusiast
 
 ---
 
 ### About Me
 
-I am a seasoned software engineer with deep expertise in telecommunications, AI-driven applications, and web development. I excel in strategic project planning and execution and lead the development of scalable, secure systems. My experience extends to managing cloud infrastructures and MLOps. I recently earned a Master’s in Software Engineering from the University of Malaya, focusing on AI and machine learning processes. This has significantly enhanced my leadership and innovation capabilities in tech.
+I’m a software engineer with experience in telecom, AI applications, and web development. I lead projects focused on building scalable, secure systems and managing cloud infrastructure and MLOps. I hold an MSc in Software Engineering from the University of Malaya, where I specialized in AI and machine learning.
 
-I am exploring new advancements in large language models (LLMs), developing and fine-tuning custom models to spearhead integration and performance improvements in diverse applications.
+I currently focus on large language models (LLMs), including building and fine-tuning custom models for real-world use.
 
 ### Interests
 
-- 🌐 Cloud Computing & Serverless Architectures
-- 🤖 AI, NLP, and Machine Learning Systems
-- 🛠️ Advanced Software Design and Architecture
-- 📈 Ensuring Software Quality and Reliability
+* Cloud computing and serverless systems
+* AI, NLP, and machine learning
+* Software architecture and design
+* Software quality and reliability
 
-### Professional Skills
+### Skills
 
-- Programming: .NET Core, Python
-- Platforms: AWS (EC2, S3, Lambda, etc.), Docker, Kubernetes
-- DevOps: CI/CD, GitHub Actions, GitLab
-- Identity and Access Management: OAuth, OpenID Connect, Keycloak
+* **Programming**: .NET Core, Python
+* **Platforms**: AWS (EC2, S3, Lambda), Docker, Kubernetes
+* **DevOps**: CI/CD, GitHub Actions, GitLab
+* **IAM**: OAuth, OpenID Connect, Keycloak
 
-### Academia
+### Education
 
-- 🎓 MSc in Software Engineering, University of Malaya
-- 🏆 BSc in Software Engineering with Honors (Gold Medalist)
-- 📜 Thesis on the software development lifecycle for ML-enabled systems
+* MSc in Software Engineering, University of Malaya
+* BSc in Software Engineering with Honors (Gold Medalist)
+* Thesis: Lifecycle models for ML-based systems
 
-### Personal Pursuits
+### Outside Work
 
-When not deep in code, I enjoy reading classic literature from diverse cultures, including Russian, French, and English literary works. These readings enrich my perspective and inspire creativity in my technical work.
-
----
-
-### 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/ixxhar)
-- 📧 ixxhar@live.com
+I read classic literature—mostly Russian, French, and English—which keeps me sharp and feeds creativity in my tech work.
 
 ---
+
+### Contact
+
+* [LinkedIn](https://www.linkedin.com/in/ixxhar)
+* Email: [ixxhar@live.com](mailto:ixxhar@live.com)
